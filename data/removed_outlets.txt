@@ -1,0 +1,919 @@
+Journal of Computational and Applied Mathematics
+Expert Systems with Applications
+Journal of Systems Architecture
+Computers and Electrical Engineering
+Transportation Research Part E: Logistics and Transportation Review
+Applied Soft Computing
+Journal of Intelligent and Robotic Systems: Theory and Applications
+European Transport Research Review
+Complex and Intelligent Systems
+Underground Space (new)
+International Journal of Computational Intelligence Systems
+Tsinghua Science and Technology
+Algorithms for Molecular Biology
+Ocean Engineering
+Neural Computing and Applications
+Measurement Science and Technology
+International Journal of Engineering, Transactions B: Applications
+Electric Power Systems Research
+Knowledge-Based Systems
+Digital Communications and Networks
+Evolutionary Intelligence
+Cluster Computing
+Systems
+Symmetry
+Cleaner Logistics and Supply Chain
+Soft Computing
+Peer-to-Peer Networking and Applications
+Sadhana - Academy Proceedings in Engineering Sciences
+Sustainable Computing: Informatics and Systems
+Neurocomputing
+Arabian Journal for Science and Engineering
+Applied Sciences (Switzerland)
+Processes
+Remote Sensing
+Computer Networks
+Nongye Gongcheng Xuebao/Transactions of the Chinese Society of Agricultural Engineering
+Swarm and Evolutionary Computation
+Geographical Analysis
+IEEE Transactions on Knowledge and Data Engineering
+Journal of Energy Storage
+IEEE Internet of Things Journal
+Civil Engineering Infrastructures Journal
+Journal of Optimization in Industrial Engineering
+Mathematics
+Technologies
+Journal Europeen des Systemes Automatises
+Ain Shams Engineering Journal
+Digital Chemical Engineering
+Acta Astronautica
+Energy Reports
+Future Generation Computer Systems
+Journal of Reliable Intelligent Environments
+IEEE Transactions on Vehicular Technology
+IEEE Transactions on Artificial Intelligence
+IEEE Transactions on Mobile Computing
+Information (Switzerland)
+IEEE Transactions on Services Computing
+IEEE Transactions on Systems, Man, and Cybernetics: Systems
+Multimedia Tools and Applications
+Advanced Engineering Informatics
+Algorithms
+Applied Intelligence
+IEEJ Transactions on Electronics, Information and Systems
+Interdisciplinary Journal of Management Studies
+Kongzhi yu Juece/Control and Decision
+Computers and Industrial Engineering
+Modeling Earth Systems and Environment
+Ruan Jian Xue Bao/Journal of Software
+Electronics Letters
+Journal of Industrial Information Integration
+IEEE Sensors Letters
+IEEE Transactions on Parallel and Distributed Systems
+Networks
+IEEE Transactions on Power Systems
+IEEE Transactions on Intelligent Transportation Systems
+Proceedings of the Institution of Mechanical Engineers, Part N: Journal of Nanomaterials, Nanoengineering and Nanosystems
+Kybernetes
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+Computer Communications
+Sustainable Cities and Society
+Journal of Advanced Research in Applied Sciences and Engineering Technology
+IEEE Transactions on Consumer Electronics
+IEEE Transactions on Cognitive Communications and Networking
+IEEE Transactions on Aerospace and Electronic Systems
+IEEE Transactions on Network and Service Management
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+International Journal of Hydrogen Energy
+Journal of Nonlinear and Variational Analysis
+IEEE Open Journal of Vehicular Technology
+IEEE Access
+AIChE Journal
+Frontiers in Mechanical Engineering
+JMIR Formative Research
+Frontiers in Energy Research
+JMIR Mental Health
+South Eastern European Journal of Public Health
+IEEE Systems Journal
+Health Care Management Science
+Journal of Industrial and Production Engineering
+IEEE Transactions on Visualization and Computer Graphics
+IISE Transactions on Healthcare Systems Engineering
+IEEE Transactions on Communications
+IEEE Transactions on Sustainable Computing
+Asian Transport Studies
+Computers, Materials and Continua
+IEEE Sensors Journal
+IEEE Transactions on Industrial Informatics
+IEEE Transactions on Intelligent Vehicles
+IEEE Transactions on Control Systems Technology
+IEEE Transactions on Cloud Computing
+Networks and Spatial Economics
+IEEE Transactions on Evolutionary Computation
+International Journal on Interactive Design and Manufacturing
+College Composition and Communication
+Journal of Intelligent Systems
+IEEE Geoscience and Remote Sensing Letters
+Journal of Combinatorial Mathematics and Combinatorial Computing
+IEEE Transactions on Network Science and Engineering
+Wind Engineering
+Language, Culture and Curriculum
+Journal of Engineering Research (Kuwait)
+IEEE Transactions on Cognitive and Developmental Systems
+EURO Journal on Decision Processes
+Tehnicki Vjesnik
+Journal of Mathematics
+Matematicki Vesnik
+Geodynamics and Tectonophysics
+Baghdad Science Journal
+Transportation Science
+Journal of Economic Geography
+Buildings
+Environmental science and pollution research international
+International Journal of Digital Earth
+Structures
+IEEE Transactions on Instrumentation and Measurement
+Omega (United Kingdom)
+VLDB Journal
+IISE Transactions
+Journal of Ambient Intelligence and Humanized Computing
+IEEE Transactions on Neural Networks and Learning Systems
+Smart Agriculture
+Journal of Cleaner Production
+Sustainability (Switzerland)
+NTU Management Review
+Journal of Industrial and Management Optimization
+Fushe Yanjiu yu Fushe Gongyi Xuebao/Journal of Radiation Research and Radiation Processing
+Transportation Research Record
+International Journal of Applied Earth Observation and Geoinformation
+IEEE Robotics and Automation Letters
+IEEE Journal on Selected Areas in Communications
+Applied Mathematical Modelling
+Journal of Cloud Computing
+IEEE Transactions on Biomedical Circuits and Systems
+Neural Processing Letters
+BMC Bioinformatics
+IEEE Transactions on Wireless Communications
+Optimization and Engineering
+International Journal of Industrial Engineering Computations
+Benchmarking
+Distributed and Parallel Databases
+Journal of Cyber Security
+Wireless Personal Communications
+Journal of Geo-Information Science
+Computers and Electronics in Agriculture
+Energy and Buildings
+Healthcare Analytics
+Revista Espanola de Investigacion Criminologica
+ACM Transactions on Cyber-Physical Systems
+Anales de la Academia de Ciencias de Cuba
+IEEE Transactions on Software Engineering
+Spatial Statistics
+Clinical Imaging
+IEEE Wireless Communications Letters
+Foundations of Computing and Decision Sciences
+International Journal of Disaster Risk Reduction
+Engineering Applications of Artificial Intelligence
+IEEE Transactions on Control of Network Systems
+Environment, Development and Sustainability
+Journal of Intelligent and Fuzzy Systems
+Discrete Applied Mathematics
+International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+Biomimetics
+Sensors
+Electronics (Switzerland)
+Environmental Science and Technology
+Journal of Applied Research on Industrial Engineering
+International Journal on Recent and Innovation Trends in Computing and Communication
+Structural Engineering and Mechanics
+PLoS ONE
+Limnology and Oceanography
+Image and Vision Computing
+GeoInformatica
+Journal of Facilities Management
+International Journal of Mining and Geo-Engineering
+International Journal of Industrial Engineering : Theory Applications and Practice
+Virtual Reality and Intelligent Hardware
+Journal of Supercomputing
+International Journal of Disaster Resilience in the Built Environment
+International Journal of Medical Informatics
+Composite Structures
+European Journal of Mechanics, A/Solids
+IEEE Transactions on Smart Grid
+Optimization Letters
+Journal of Community Psychology
+Microprocessors and Microsystems
+Transportation Research Part A: Policy and Practice
+Environmental Science and Pollution Research
+International Journal of Intelligent Transportation Systems Research
+Automatica
+Structural Design of Tall and Special Buildings
+Tunnelling and Underground Space Technology
+Mechanical Systems and Signal Processing
+Acta Geophysica
+Scientia Iranica
+Pertanika Journal of Science and Technology
+Water (Switzerland)
+Heliyon
+Energies
+IEEE Communications Letters
+Process Integration and Optimization for Sustainability
+Parallel Processing Letters
+IEEE Transactions on Fuzzy Systems
+Global Business Review
+Robotica
+ACM Transactions on Spatial Algorithms and Systems
+Computing and Informatics
+IEEE Journal on Selected Areas in Information Theory
+Chemical Engineering Transactions
+Journal of Environmental Protection and Ecology
+Decision Making: Applications in Management and Engineering
+World Journal of Entrepreneurship, Management and Sustainable Development
+Gaojishu Tongxin/Chinese High Technology Letters
+Mathematical Problems in Engineering
+Health Services Insights
+Intelligent Decision Technologies
+European Journal of Transport and Infrastructure Research
+Energy Sources, Part A: Recovery, Utilization and Environmental Effects
+Frontiers in Marine Science
+Journal of the Faculty of Engineering and Architecture of Gazi University
+IEEE Transactions on Geoscience and Remote Sensing
+International Journal of Geographical Information Science
+IEEE Transactions on Information Forensics and Security
+Archives of Transport
+IEEE Transactions on Computational Imaging
+Engineering and Applied Science Research
+Computer Science and Information Systems
+European Journal of Industrial Engineering
+IEEE Transactions on Signal Processing
+Journal of Frontiers of Computer Science and Technology
+Journal of Petroleum Science and Engineering
+Transportation Letters
+World Wide Web
+World Journal of Engineering
+Scientific Reports
+Medical Engineering and Physics
+Geomechanics and Geophysics for Geo-Energy and Geo-Resources
+International Journal of Intelligent Engineering and Systems
+International Journal of Intelligent Robotics and Applications
+Computational Urban Science
+IEEE Transactions on Cybernetics
+International Journal of Environmental Research and Public Health
+International Journal of Information Management Data Insights
+Software Impacts
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Concurrency and Computation: Practice and Experience
+Natural Hazards
+IEEE Transactions on Industrial Electronics
+International Journal of Electrical and Electronics Research
+Science and Technology Indonesia
+Journal of Optical Communications and Networking
+IEEE Transactions on Automation Science and Engineering
+Quality and Quantity
+International Journal of Intelligent Computing and Cybernetics
+International Journal of Renewable Energy Research
+Dalian Ligong Daxue Xuebao/Journal of Dalian University of Technology
+Journal of Combinatorial Optimization
+International Journal of Network Management
+Biomedical Physics and Engineering Express
+Journal of Sound and Vibration
+Journal of Hydrology
+Computers in Biology and Medicine
+Annales des Telecommunications/Annals of Telecommunications
+Journal of Intelligent Manufacturing
+Transport Policy
+Journal of Theoretical and Applied Information Technology
+Current Biology
+Science and Technology Asia
+Computation
+Qinghua Daxue Xuebao/Journal of Tsinghua University
+ACM Transactions on Intelligent Systems and Technology
+Journal of Electrical Systems
+Designs
+Computational and Applied Mathematics
+Journal of Computational Physics
+Wuhan Ligong Daxue Xuebao/Journal of Wuhan University of Technology
+Engineering Computations (Swansea, Wales)
+Chinese Journal of Sensors and Actuators
+ISPRS International Journal of Geo-Information
+Engineering Science and Technology, an International Journal
+Journal of Communications and Networks
+Pattern Recognition
+Energy
+Mathematics in Applied Sciences and Engineering
+Renewable Energy
+Computers, Environment and Urban Systems
+International Journal of Fuzzy Systems
+Applied Spatial Analysis and Policy
+Geoscientific Model Development
+Jisuanji Yanjiu yu Fazhan/Computer Research and Development
+International Journal of Steel Structures
+Automation in Construction
+Stochastic Environmental Research and Risk Assessment
+International Journal of Swarm Intelligence Research
+Journal of Automation, Mobile Robotics and Intelligent Systems
+IEEE Open Journal of Intelligent Transportation Systems
+Journal of Internet Technology
+Scalable Computing
+International Journal of Industrial and Systems Engineering
+Iranian Journal of Fuzzy Systems
+International Journal of Mathematics in Operational Research
+IEEE Open Journal of the Communications Society
+Complexity
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+International Journal of Advanced Computer Science and Applications
+Industrial Engineering and Management Systems
+Mathematical Biosciences and Engineering
+International Journal of Communication Systems
+Geomatics, Natural Hazards and Risk
+Computational Intelligence and Neuroscience
+International Journal of Computer Applications in Technology
+International Transactions on Electrical Energy Systems
+IAENG International Journal of Applied Mathematics
+Journal of Computer Science
+Applied Economics
+IEEE Transactions on Signal and Information Processing over Networks
+Autonomous Robots
+Periodica Polytechnica Civil Engineering
+Chemistry - A European Journal
+Journal of China Universities of Posts and Telecommunications
+Transactions on Emerging Telecommunications Technologies
+Research in Transportation Economics
+Journal of Engineering, Design and Technology
+Shuju Caiji Yu Chuli/Journal of Data Acquisition and Processing
+Transportation Research Part D: Transport and Environment
+IET Communications
+International Journal of Engineering Transactions C: Aspects
+Engineering Journal
+International Journal of Applied Metaheuristic Computing
+Gongcheng Kexue Yu Jishu/Advanced Engineering Sciences
+International Journal of Artificial Intelligence
+Journal of Mathematical Modeling
+ACM Transactions on Management Information Systems
+Annals of Mathematics and Artificial Intelligence
+Journal of Plasma Physics
+Frontiers of Information Technology and Electronic Engineering
+Physics of Fluids
+Journal of Geodesy
+Artificial Intelligence Review
+ACM Transactions on Sensor Networks
+Smart Structures and Systems
+Journal of Network and Systems Management
+Computer-Aided Civil and Infrastructure Engineering
+IET Electrical Systems in Transportation
+International Journal of Electrical and Computer Engineering
+International Journal of Dynamics and Control
+Wuhan Daxue Xuebao (Xinxi Kexue Ban)/Geomatics and Information Science of Wuhan University
+IET Generation, Transmission and Distribution
+Renewable and Sustainable Energy Reviews
+Robotics and Autonomous Systems
+International Journal of Machine Learning and Cybernetics
+International Journal of Engineering, Transactions A: Basics
+Autonomous Agents and Multi-Agent Systems
+IEEE Transactions on Power Electronics
+IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology
+Case Studies on Transport Policy
+Information Sciences
+Biosystems Engineering
+Waste Management
+Decision Sciences
+Advances in Electrical and Computer Engineering
+Frontiers in Health Informatics
+Journal of Industrial Engineering and Management
+Recent Advances in Computer Science and Communications
+Emakeele Seltsi Aastaraamat
+International Journal of Interactive Mobile Technologies
+Journal of Advanced Transportation
+PeerJ Computer Science
+Eastern-European Journal of Enterprise Technologies
+International Journal of Computing
+Inteligencia Artificial
+Zhejiang Daxue Xuebao (Gongxue Ban)/Journal of Zhejiang University (Engineering Science)
+Journal of Manufacturing Systems
+Nuclear Fusion
+Simulation Modelling Practice and Theory
+Natural Resources Research
+Journal of the Textile Institute
+Journal of Applied Physics
+International Journal of Civil Engineering
+Xitong Gongcheng Lilun yu Shijian/System Engineering Theory and Practice
+Xinan Jiaotong Daxue Xuebao/Journal of Southwest Jiaotong University
+Journal of Water Process Engineering
+Mobile Networks and Applications
+Physical Review Applied
+Journal of Coastal Research
+Applied Soft Computing Journal
+Performance Evaluation
+Applied Geomatics
+Beijing Youdian Daxue Xuebao/Journal of Beijing University of Posts and Telecommunications
+Arabian Journal of Geosciences
+International Journal of Innovative Computing, Information and Control
+Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+Statistics and Computing
+Knowledge and Information Systems
+Applied Mathematics and Computation
+Jisuanji Jicheng Zhizao Xitong/Computer Integrated Manufacturing Systems, CIMS
+Recycling
+Decision Science Letters
+Journal of Clinical Medicine
+International Journal of Environmental Science and Technology
+IEEE/ACM Transactions on Computational Biology and Bioinformatics
+IET Renewable Power Generation
+Journal of the Chinese Institute of Civil and Hydraulic Engineering
+INFORMS Journal on Applied Analytics
+Informacion Tecnologica
+IEEE/ACM Transactions on Networking
+Industrial Management and Data Systems
+Journal of Neuroscience Methods
+Informatica (Slovenia)
+Journal of Machine Learning Research
+Journal of Computing in Civil Engineering
+Ad Hoc Networks
+Circuits, Systems, and Signal Processing
+Control and Optimization in Applied Mathematics
+CAAI Transactions on Intelligent Systems
+International Journal of Modelling, Identification and Control
+International Journal of Circuits, Systems and Signal Processing
+Filomat
+Journal of Mechanical Design
+Informatica (Netherlands)
+Control and Cybernetics
+International Journal of Security and Networks
+International Journal of GEOMATE
+Transportmetrica A: Transport Science
+Transactions of the Institute of Measurement and Control
+International Journal of Fuzzy Logic and Intelligent Systems
+International Agricultural Engineering Journal
+Huanan Ligong Daxue Xuebao/Journal of South China University of Technology (Natural Science)
+Nanjing Hangkong Hangtian Daxue Xuebao/Journal of Nanjing University of Aeronautics and Astronautics
+ACM Transactions on Multimedia Computing, Communications and Applications
+Journal of Systems Science and Systems Engineering
+Natural Computing
+Sensors (Switzerland)
+International Journal on Artificial Intelligence Tools
+Computational Optimization and Applications
+International Journal of Advanced Science and Technology
+Physical Communication
+Measurement: Journal of the International Measurement Confederation
+International Journal of Industrial Engineering and Management
+International Journal of Recent Technology and Engineering
+Journal of Industrial Engineering International
+Mathematical Programming
+Discrete and Continuous Dynamical Systems - Series S
+Thailand Statistician
+Journal of Management Science and Engineering
+Journal of Natural Disasters
+Journal of Open Innovation: Technology, Market, and Complexity
+IEEE Latin America Transactions
+International Journal of Performability Engineering
+Professional Geographer
+International Journal of Scientific and Technology Research
+Bulletin of the Iranian Mathematical Society
+Journal of Parallel and Distributed Computing
+KSII Transactions on Internet and Information Systems
+Computing
+Virus Evolution
+IEEE Transactions on Green Communications and Networking
+IEEE Communications Magazine
+International Journal of Engineering and Advanced Technology
+ACM Transactions on Algorithms
+Control Theory and Technology
+Applied Energy
+Theoretical Computer Science
+Sigma Journal of Engineering and Natural Sciences
+ASM Science Journal
+Transport
+Transactions in GIS
+Zhongshan Daxue Xuebao/Acta Scientiarum Natralium Universitatis Sunyatseni
+CMES - Computer Modeling in Engineering and Sciences
+SIAM Journal on Computing
+International Journal of Energy Technology and Policy
+International Journal of Automotive and Mechanical Engineering
+International Journal of Mechanical Engineering and Technology
+Zhongguo Jixie Gongcheng/China Mechanical Engineering
+Journal of Engineering Research
+Computers
+Enterprise Information Systems
+Systems Engineering
+Promet - Traffic and Transportation
+Jisuanji Xuebao/Chinese Journal of Computers
+Applied Mathematics and Information Sciences
+IEEE Transactions on Computational Social Systems
+IEEE/ACM Transactions on Audio Speech and Language Processing
+Dongbei Daxue Xuebao/Journal of Northeastern University
+Journal of Fluids and Structures
+Applied Clinical Informatics
+Jurnal Teknologi
+Journal of Computing and Information Science in Engineering
+IEEE Photonics Journal
+Journal of Experimental and Theoretical Artificial Intelligence
+Zidonghua Xuebao/Acta Automatica Sinica
+Journal of Central South University
+IEEE Transactions on Image Processing
+International Journal of Advanced Manufacturing Technology
+International Journal of Electrical Power and Energy Systems
+Progress in Artificial Intelligence
+IEEE Transactions on Reliability
+International Journal of Mechanics and Materials in Design
+Jiaotong Yunshu Gongcheng Xuebao/Journal of Traffic and Transportation Engineering
+Electronic Notes in Discrete Mathematics
+Artificial Intelligence for Engineering Design, Analysis and Manufacturing: AIEDAM
+IEEE Transactions on Semiconductor Manufacturing
+Structural and Multidisciplinary Optimization
+Multimedia Systems
+Shenzhen Daxue Xuebao (Ligong Ban)/Journal of Shenzhen University Science and Engineering
+Computers and Chemical Engineering
+International Journal of Engineering and Technology(UAE)
+Economic Computation and Economic Cybernetics Studies and Research
+Scientific Programming
+Journal of Zhejiang University, Science Edition
+International Journal of Bio-Inspired Computation
+UPB Scientific Bulletin, Series C: Electrical Engineering and Computer Science
+E a M: Ekonomie a Management
+Journal of Maps
+Cogent Engineering
+Revista Brasileirade Ciencias Agrarias
+International Journal of Value Chain Management
+Journal of Guidance, Control, and Dynamics
+Journal of Remanufacturing
+Structural Change and Economic Dynamics
+Beijing Huagong Daxue Xuebao (Ziran Kexueban)/Journal of Beijing University of Chemical Technology (Natural Science Edition)
+Journal of Computer Science and Technology
+Intelligent Buildings International
+IEEE Journal of Oceanic Engineering
+Signal, Image and Video Processing
+ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+Communications in Computational Physics
+Data Mining and Knowledge Discovery
+Journal of Classification
+Optical Fiber Technology
+Applied Geography
+Structural Safety
+Journal of Water Resources Planning and Management
+Journal of King Saud University - Computer and Information Sciences
+Chung Cheng Ling Hsueh Pao/Journal of Chung Cheng Institute of Technology
+Journal of Experimental Botany
+Memetic Computing
+PLoS Biology
+Engineering Review
+IEICE Transactions on Information and Systems
+Electric Power Components and Systems
+Proceedings of the National Academy of Sciences of the United States of America
+Dili Xuebao/Acta Geographica Sinica
+Journal of Advanced Research in Dynamical and Control Systems
+Journal of Spatial Information Science
+International Journal of Applied Management Science
+Management of Environmental Quality: An International Journal
+DYNA (Colombia)
+International Journal of Mathematical Modelling and Numerical Optimisation
+Journal of Construction Engineering and Management
+International Journal of Retail and Distribution Management
+Biomass and Bioenergy
+Optical Switching and Networking
+Tiedao Xuebao/Journal of the China Railway Society
+Aerospace
+Real Estate Management and Valuation
+Journal of Headache and Pain
+Canadian Journal of Electrical and Computer Engineering
+Shanghai Jiaotong Daxue Xuebao/Journal of Shanghai Jiaotong University
+Journal of Intelligent Transportation Systems: Technology, Planning, and Operations
+Computer Animation and Virtual Worlds
+Journal of Environmental Engineering and Landscape Management
+Journal of Property Research
+Dianli Xitong Baohu yu Kongzhi/Power System Protection and Control
+International Journal of Pharmacy and Technology
+Groundwater
+Jiaotong Yunshu Xitong Gongcheng Yu Xinxi/Journal of Transportation Systems Engineering and Information Technology
+Discrete Optimization
+Journal of Computational and Theoretical Nanoscience
+Ingeniare
+NETNOMICS: Economic Research and Electronic Networking
+Applied Computational Intelligence and Soft Computing
+Physiological Measurement
+Cybernetics and Systems
+Annals of Internal Medicine
+IEEE Signal Processing Letters
+IEEE Transactions on Multimedia
+Biological Conservation
+Computers and Geosciences
+ICIC Express Letters
+Nonlinear Dynamics
+International Journal of Systems Science
+IIE Transactions (Institute of Industrial Engineers)
+i-Perception
+Journal of Computational Biology
+Water Resources Research
+Asian Journal of Information Technology
+Springer Optimization and Its Applications
+International Journal of Revenue Management
+Information Technology and Control
+Gradjevinar
+RAIRO - Theoretical Informatics and Applications
+Jordan Journal of Civil Engineering
+Journal of Testing and Evaluation
+International Regional Science Review
+Journal of Revenue and Pricing Management
+International Journal of Speech Technology
+ACM SIGPLAN Notices
+Multidiscipline Modeling in Materials and Structures
+Beijing Gongye Daxue Xuebao/Journal of Beijing University of Technology
+International Journal of Software Engineering and Knowledge Engineering
+ACM Transactions on Autonomous and Adaptive Systems
+Journal of Neural Engineering
+Journal of Applied Logic
+Journal of Lightwave Technology
+Gaodianya Jishu/High Voltage Engineering
+KSCE Journal of Civil Engineering
+A/Z ITU Journal of the Faculty of Architecture
+Wuhan Ligong Daxue Xuebao (Jiaotong Kexue Yu Gongcheng Ban)/Journal of Wuhan University of Technology (Transportation Science and Engineering)
+International Journal of Applied Engineering Research
+Studies in Informatics and Control
+Journal of Engineering Science and Technology Review
+Transactions of the ASABE
+Computacion y Sistemas
+Journal of Electrical Engineering
+Research Journal of Pharmaceutical, Biological and Chemical Sciences
+International Journal of Productivity and Quality Management
+Transport Problems
+ICIC Express Letters, Part B: Applications
+Communications - Scientific Letters of the University of Žilina
+Computers and Mathematics with Applications
+International Journal of Vehicle Structures and Systems
+Kuwait Journal of Science
+Random Structures and Algorithms
+ACM Transactions on Computer-Human Interaction
+International Journal of Emergency Management
+International Journal of Pediatric Otorhinolaryngology
+Fuzzy Sets and Systems
+Japan Journal of Industrial and Applied Mathematics
+Telemedicine and e-Health
+Xi Tong Gong Cheng Yu Dian Zi Ji Shu/Systems Engineering and Electronics
+IEEE Transactions on Robotics
+Acta Psychologica
+International Journal of Information Technology and Decision Making
+Journal of the Chinese Institute of Engineers, Transactions of the Chinese Institute of Engineers,Series A
+Inverse Problems in Science and Engineering
+The Scientific World Journal
+Investigacion Operacional
+Expert Systems
+Production and Manufacturing Research
+Decision
+International Journal of Earth Sciences and Engineering
+Journal of Chemical and Pharmaceutical Research
+Acta Polytechnica Hungarica
+Advanced Science Letters
+Solar Energy
+Telecommunication Systems
+Computer Communication Review
+Fennia
+Current Problems in Pediatric and Adolescent Health Care
+Journal of Regional Science
+Applied Mathematical Sciences
+Aeronautical Journal
+Journal of Applied Mathematics
+Decisions in Economics and Finance
+Abstract and Applied Analysis
+Journal of Eye Movement Research
+Sensors and Transducers
+IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans
+Xitong Fangzhen Xuebao / Journal of System Simulation
+Journal of Computational Information Systems
+Journal of Networks
+Journal of Computer Security
+Technometrics
+European Transport - Trasporti Europei
+International Journal of Distributed Sensor Networks
+Algorithmica
+International Journal for Numerical Methods in Engineering
+Zhongnan Daxue Xuebao (Ziran Kexue Ban)/Journal of Central South University (Science and Technology)
+Computers in Industry
+Mathematical and Computer Modelling
+Iranian Journal of Public Health
+RAIRO Recherche Operationnelle
+IIE Transactions on Healthcare Systems Engineering
+Information Technology Journal
+Social Network Analysis and Mining
+Baltic Forestry
+International Journal of Computers, Communications and Control
+SIAM Journal on Scientific Computing
+Information (Japan)
+BMC genomics
+PLoS Computational Biology
+Journal of Uncertain Systems
+Journal of Manufacturing Technology Management
+Vision Research
+International Journal of Digital Content Technology and its Applications
+Psychometrika
+EMJ - Engineering Management Journal
+Cultural Sociology
+Thai Journal of Mathematics
+IET Optoelectronics
+International Journal of Numerical Analysis and Modeling
+Evolutionary Computation
+Journal of Transportation Engineering
+Astrophysical Journal
+Modelling and Simulation in Engineering
+IEEE Transactions on Power Delivery
+IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics
+Controle y Automacao
+Proceedings of the Institution of Civil Engineers: Municipal Engineer
+Yingyong Kexue Xuebao/Journal of Applied Sciences
+Optimal Control Applications and Methods
+Photonic Network Communications
+International Journal of Information Systems and Supply Chain Management
+Environment and Planning B: Planning and Design
+Journal of Sciences, Islamic Republic of Iran
+Cehui Xuebao/Acta Geodaetica et Cartographica Sinica
+Australian Journal of Basic and Applied Sciences
+Geosciences Journal
+Asian Journal of Civil Engineering
+Studies in Computational Intelligence
+Journal of the Royal Society Interface
+Australian Journal of Grape and Wine Research
+Distributed Generation and Alternative Energy Journal
+Resources, Conservation and Recycling
+World Academy of Science, Engineering and Technology
+Optimization Methods and Software
+Robotics and Computer-Integrated Manufacturing
+Journal of Applied Research and Technology
+Statistical Analysis and Data Mining
+Journal of Aircraft
+Water Resources Management
+International Journal of Computers and Applications
+Dalian Haishi Daxue Xuebao/Journal of Dalian Maritime University
+South African Journal of Industrial Engineering
+AIAA Journal
+Internet Research
+ACM Transactions on Design Automation of Electronic Systems
+ACM Transactions on Programming Languages and Systems
+Decision Support Systems
+International Journal of Applied Mathematics and Computer Science
+Far East Journal of Mathematical Sciences
+International Journal of Services, Economics and Management
+Fuzzy Economic Review
+International Review on Modelling and Simulations
+WIT Transactions on Ecology and the Environment
+Journal of Hydroinformatics
+International Journal of Computer Integrated Manufacturing
+Psychological Methods
+Advances in Engineering Software
+Constraints
+Beijing Jiaotong Daxue Xuebao/Journal of Beijing Jiaotong University
+Harbin Gongcheng Daxue Xuebao/Journal of Harbin Engineering University
+Hydrogeology Journal
+Theoretical and Applied Fracture Mechanics
+International Journal of Pervasive Computing and Communications
+Journal of Shanghai Jiaotong University (Science)
+Annals of the Association of American Geographers
+Pattern Recognition Letters
+Journal of Information and Computational Science
+Behavior Research Methods
+Nonlinear Analysis: Real World Applications
+International Journal of Fracture
+Journal of Marine Science and Technology
+Journal of the Acoustical Society of America
+Dongnan Daxue Xuebao (Ziran Kexue Ban)/Journal of Southeast University (Natural Science Edition)
+Journal of Mathematical Modelling and Algorithms
+Journal of Computer and Systems Sciences International
+Software - Practice and Experience
+International Journal of Electrical Engineering
+Synthese
+SEG Technical Program Expanded Abstracts
+Jiaotong Yunshu Xitong Gongcheng Yu Xinxi/ Journal of Transportation Systems Engineering and Information Technology
+Journal of Medical Internet Research
+Wireless Communications and Mobile Computing
+Fire Safety Journal
+Zhongguo Tiedao Kexue/China Railway Science
+Artificial Intelligence in Medicine
+Transactions on Architecture and Code Optimization
+ACM Transactions on Applied Perception
+Journal of the Chinese Institute of Industrial Engineers
+Journal of Vibration and Acoustics
+IEEE Intelligent Systems
+Journal of Vacuum Science and Technology B: Microelectronics and Nanometer Structures
+8th Annual Water Distribution Systems Analysis Symposium 2006
+International Conference on Mobile Computing and Networking, MobiCom'07 Co-Located Workshops - Proceedings of the First ACM Workshop on Sensor and Actor Networks, SANET'07
+Combinatorics Probability and Computing
+Operations Research/ Computer Science Interfaces Series
+Chemical Engineering and Processing: Process Intensification
+Kongzhi Lilun Yu Yingyong/Control Theory and Applications
+Dianzi Keji Daxue Xuebao/Journal of the University of Electronic Science and Technology of China
+Beijing Ligong Daxue Xuebao/Transaction of Beijing Institute of Technology
+Journal of Traffic and Transportation Engineering
+Frontiers of Electrical and Electronic Engineering in China
+Sexologies
+SIAM Journal on Optimization
+Chang'an Daxue Xuebao (Ziran Kexue Ban)/Journal of Chang'an University (Natural Science Edition)
+WSEAS Transactions on Systems
+Pervasive and Mobile Computing
+Jisuanji Gongcheng/Computer Engineering
+USDA Forest Service - General Technical Report PNW
+Computers and Structures
+Chemical Engineering Science
+BMC Medical Research Methodology
+International Journal of Electronics
+Informatica (Ljubljana)
+Computer Methods in Applied Mechanics and Engineering
+Urban Studies
+Journal of Computing and Information Technology
+IEICE Transactions on Communications
+IETE Journal of Research
+Software Quality Journal
+Active and Passive Electronic Components
+Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+Forest Products Journal
+Journal of Retailing and Consumer Services
+PACE - Pacing and Clinical Electrophysiology
+Machine Learning
+Papers in Regional Science
+Diversity and Distributions
+Wireless Networks
+Scientific Computing and Instrumentation
+Journal of Optical Networking
+International Journal of Technology, Policy and Management
+Computer Aided Chemical Engineering
+Elektrotehniski Vestnik/Electrotechnical Review
+Mathematical Programming, Series B
+Artificial Intelligence
+Algorithmica (New York)
+ACM Transactions on Internet Technology
+Journal of Management Studies
+Journal of bioinformatics and computational biology
+Annales Geophysicae
+Parallel Computing
+Journal of Vision
+International Journal of Operations and Production Management
+Journal of King Saud University - Engineering Sciences
+Automation and Remote Control
+Journal of Network and Computer Applications
+IEEE International Conference on Communications
+Environmental Modeling and Assessment
+Precision Engineering
+American Statistician
+Journal of the ACM
+International Journal of Physical Distribution and Logistics Management
+Proceedings of the IEEE International Conference on Systems, Man and Cybernetics
+Public Personnel Management
+Evolutionary computation
+Computer Methods and Programs in Biomedicine
+Maritime Policy and Management
+OR Spektrum
+Monthly Notices of the Royal Astronomical Society
+IEEE Transactions on Neural Networks
+Health Services Research
+Journal of Algorithms
+Recherche - Transports - Securite
+Molecular Physics
+Proceedings of the Asia and South Pacific Design Automation Conference, ASP-DAC
+Location Science
+Physical Review B - Condensed Matter and Materials Physics
+International Journal of Engineering Intelligent Systems for Electrical Engineering and Communications
+Marine Ecology Progress Series
+Computational Statistics and Data Analysis
+International Journal of Modelling and Simulation
+Environment and Planning A
+Communications in Statistics - Theory and Methods
+IEEE Transactions on Systems, Man, and Cybernetics
+Transportation Research Part A
+Top
+Jsme International Journal. Ser. C, Dynamics, Control, Robotics, Design and Manufacturing
+Japanese Journal of Human Geography
+Journal of Urban Planning and Development
+Trabajos de Investigacion Operativa
+Journal of Statistical Physics
+Transactions of the Japan Society of Mechanical Engineers Series C
+Naval Research Logistics (NRL)
+European Transactions on Telecommunications
+International Journal of Computer Mathematics
+Journal of Agricultural Engineering Research
+Expert Systems With Applications
+Journal of Mechanical Design, Transactions of the ASME
+Izvestiya Akademii Nauk: Tekhnicheskaia Kibernetika
+International Journal of Geographical Information Systems
+IEE Proceedings D: Control Theory and Applications
+Environment &amp; Planning B: Planning &amp; Design
+Cybernetics
+Engineering Costs and Production Economics
+nan
+American Journal of Mathematical and Management Sciences
+Seminars in Nuclear Medicine
+Doklady. Chemical technology
+Transportation Research Part B
+Naval research logistics quarterly
+Journal of the Institution of Engineers (India): Mechanical Engineering Division
+Siemens Forschungs- und Entwicklungsberichte/Siemens Research and Development Reports
+INFOR Journal
+IEEE Transactions on Computers
+Microelectronics Reliability
+Environment &amp; Planning B
+Social Science and Medicine. Part C Medical Geography
+Analytica Chimica Acta
+International Journal of Circuit Theory and Applications
+Acta Psiquiatrica y Psicologica de America Latina
+Logistics &amp; Transportation Review
+J. ENVIRON. ENG. DIV. AM. SOC. CIV. ENG.
+Manage Sci
+Annals of Discrete Mathematics
+Proceedings of the IEEE
+Abstracts of Hospital Management Studies
+AIIE Transactions
